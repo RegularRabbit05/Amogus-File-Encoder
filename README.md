@@ -4,7 +4,7 @@ Encode and decode your files and strings in a sussy way!
 
 ## Sussy graph below
 
-![SUS GRAPH](https://cdn.discordapp.com/attachments/724547709838819328/889972551558762527/unknown.png)
+![SUS GRAPH](https://github.com/RegularRabbit05/Amogus-File-Encoder/assets/69511985/ecbad39c-5dbb-4240-a3fa-fe81b756da1f)
 
 ## Explanation
 
